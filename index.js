@@ -20,7 +20,7 @@ document.addEventListener('keydown', function(e) {
   if (e.which === 37) {
     moveDodgerLeft();
   }
-  if (e.which === 32) {
+  if (e.which === 26) {
     moveDodgerRight();
   }
 });
